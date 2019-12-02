@@ -35,6 +35,3 @@ for i in range(0, proglen, 4):
     
 #prints solution to problem
 print(program[0])
-
-        
-
